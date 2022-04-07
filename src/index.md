@@ -1,15 +1,12 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Website for the Final Project of the Bachelor&#39;s degree in Computer Science at the University of São Paulo
-actionText: Quick Start →
-actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by Erick Rodrigues de Santana with ❤️
+tagline: Uma Ferramenta para Caracterização da Arquitetura de Sistemas Baseados em Sserviços.
+actionText: Conheça →
+actionLink: /tcc/
 ---
+
+### Trabalho de Formatura Supervisionado (MAC0499)
+
+- Aluno: Erick Rodrigues de Santana (Universidade de São Paulo)
+- Orientador: Prof. Dr. Alfredo Goldman vel Lejbman (Universidade de São Paulo)
+- Co-orientador: Prof. André van der Hoek (University of California, Irvine)
