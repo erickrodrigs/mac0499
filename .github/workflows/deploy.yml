@@ -17,7 +17,8 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - name: build production
-        run: yarn install
+        run: |
+          yarn install
           yarn build
       - name: deploy
         uses: JamesIves/github-pages-deploy-action@v4.2.2
