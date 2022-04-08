@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/mac0499/',
   title: 'Sorting Hat',
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
