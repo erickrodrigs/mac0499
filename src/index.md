@@ -9,4 +9,4 @@ actionLink: /tcc/
 
 - Aluno: Erick Rodrigues de Santana (Universidade de São Paulo)
 - Orientador: Prof. Dr. Alfredo Goldman vel Lejbman (Universidade de São Paulo)
-- Co-orientador: Prof. André van der Hoek (University of California, Irvine)
+- Supervisor: João Francisco Lino Daniel (Universidade de São Paulo)
