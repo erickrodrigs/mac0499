@@ -12,37 +12,35 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
-    searchPlaceholder: 'Buscar...',
+    searchPlaceholder: 'Search...',
     nav: [
       {
-        text: 'TCC',
-        link: '/tcc/',
+        text: 'Capstone Project',
+        link: '/project/',
       },
       {
-        text: 'Sobre o aluno',
+        text: 'About me',
         link: '/about/',
       },
       {
-        text: 'Publicações',
+        text: 'Publications',
         link: '/publications/'
       },
       {
-        text: 'Baixar monografia',
+        text: 'Download Monograph',
         link: 'https://v1.vuepress.vuejs.org'
       }
     ],
-    sidebar: {
-      '/tcc/': [
-        {
-          title: 'Sumário',
-          collapsable: false,
-          children: [
-            '',
-            'proposal'
-          ]
-        }
-      ]
-    }
+    sidebar: [
+      {
+        title: 'Capstone Project',
+        collapsable: false,
+        children: [
+          ['/project/', 'Abstract'],
+          ['/project/proposal', 'Work Proposal'],
+        ]
+      }
+    ]
   },
   plugins: [
     '@vuepress/plugin-back-to-top',

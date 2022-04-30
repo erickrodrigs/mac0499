@@ -1,12 +1,13 @@
 ---
 home: true
-tagline: Uma Ferramenta para Caracterização da Arquitetura de Sistemas Baseados em Sserviços.
-actionText: Conheça →
-actionLink: /tcc/
+tagline: A Tool to Characterize the Architecture of Service-Based Systems.
+actionText: Get Started →
+actionLink: /project/
 ---
 
-### Trabalho de Formatura Supervisionado (MAC0499)
+### MAC0499 - Capstone Project
 
-- Aluno: Erick Rodrigues de Santana (Universidade de São Paulo)
-- Orientador: Prof. Dr. Alfredo Goldman vel Lejbman (Universidade de São Paulo)
-- Supervisor: João Francisco Lino Daniel (Universidade de São Paulo)
+- Student: Erick Rodrigues de Santana (University of Sao Paulo)
+- Supervisor: Prof. Dr. Alfredo Goldman vel Lejbman (University of Sao Paulo)
+- Co-supervisor: Prof. Dr. André van der Hoek (University of California, Irvine)
+- Co-supervisor: João Francisco Lino Daniel (University of Sao Paulo)
