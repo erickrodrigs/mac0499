@@ -1,3 +1,3 @@
 # Work Proposal
 
-Donwload the work proposal here: <a href="/mac0499/project/proposal.pdf" target="blank">proposal.pdf</a>
+Donwload the work proposal here: <a :href="$withBase('/project/proposal.pdf')" target="blank">proposal.pdf</a>
