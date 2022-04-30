@@ -1,3 +1,3 @@
 # Work Proposal
 
-Donwload the work proposal here: <a :href="$withBase('/project/proposal.pdf')" target="blank">proposal.pdf</a>
+<a :href="$withBase('/project/proposal.pdf')" target="blank">Click to download the work proposal.</a>
