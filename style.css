@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+hr {
+  margin: 1rem 0;
+  color: #ddd;
+}
+
+span {
+  font-weight: 600;
+}
+
+h3 {
+  margin-bottom: 1rem;
+  color: #6c44c4;
+}
+
+p {
+  line-height: 1.5;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+ul li {
+  line-height: 1.5;
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  color: #6c44c4;
+}
+
+header h2 {
+  color: #757575;
+}
+
+section.abstract {
+  text-align: justify;
+}
+
+section.abstract p.keywords {
+  margin-top: 1rem;
+}
+
+section.details p.details-paragraph {
+  margin: 1rem 0;
+}
+
+section.details .universities {
+  margin-top: 1rem;
+}
